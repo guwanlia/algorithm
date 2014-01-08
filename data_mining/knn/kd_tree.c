@@ -70,12 +70,10 @@ kd_node* kd_search(kd, target)
     }
     kd_node* kd_point = kd;
     nearest = kd_point->features;
-    
+
 }
 
 int main(int argc, char *argv[])
 {
-    
-    
     return 0;
 }
